@@ -116,7 +116,7 @@ The third operation is pretty much a review of the previous one, now with 3 tumo
 
 One optimization you can make here is to skip the ultrasound entirely - just memorize where the tumors are and slash away. Be careful though, you should lift the scalpel before moving from one tumor to the next, the game is a bit janky with moving the scalpel over big distances. Here is a screenshot of the three exposed tumors so you can build your own visual cues of where to cut:
 
-![](1-3tumors.png)
+![](img/1-3tumors.png)
 
 Lastly, to optimize your tool switching, you should be cutting all 3 tumors, then draining all 3, excising all 3, and then removing all 3 together. Since tool switching is essentially free in this game (compared to the DS, at least), this doesn't quite save time RTA (it does in the TAS!), so try it out and see what works for you. Keep in mind that you need to be fast enough to excise all 3 tumors before the cytoplasm regenerates if you're using this approach.
 

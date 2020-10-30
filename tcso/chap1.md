@@ -95,10 +95,10 @@ There really aren't any tricks for this one - just play normally and get all 3 C
 * Vitals start at 99/99
 * Time limit: 5 minutes
 * Score breakdown, assuming all COOLs:
-  * 1 Tumor: 250 - 300 [\*]
-  * 1 Incision: 80 - 200
-  * 1 Incision Suture: 90 - 240
-  * 1 Bandage: 100 - 260
+  * 1 Tumor: 300 points [\*]
+  * 1 Incision: 200 points
+  * 1 Incision Suture: 240 points
+  * 1 Bandage: 260 points
 
 [\*] You can only get a GOOD grade on this tumor
 
@@ -149,11 +149,11 @@ To aid in this quest to optimize the bandage, we have a very small amount of dow
 * Vitals start at 99/99
 * Time limit: 5 minutes
 * Score breakdown, assuming all COOLs:
-  * 2 Inflammations: 80
-  * 3 Tumors: 750 - 1080
-  * 1 Incision: 80 - 200
-  * 1 Incision Suture: 90 - 240
-  * 1 Bandage: 100 - 260
+  * 2 Inflammations: 80 points
+  * 3 Tumors: 1080 points
+  * 1 Incision: 200 points
+  * 1 Incision Suture: 240 points
+  * 1 Bandage: 260 points
 
 Adding up all the bonuses and score obtainable in the stage, we reach a max score of 3860 points, which will be added to the time and vital bonus to get the final grade. Therefore, assuming we get all COOLs, we can safely finish the operation in 60 seconds with 68 vitals remaining to guarantee the XS. For every second we go faster, we can go 1 vital lower:
 

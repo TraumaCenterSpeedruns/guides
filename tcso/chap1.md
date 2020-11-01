@@ -158,3 +158,212 @@ To aid in this quest to optimize the bandage, we have a very small amount of dow
 Adding up all the bonuses and score obtainable in the stage, we reach a max score of 3860 points, which will be added to the time and vital bonus to get the final grade. Therefore, assuming we get all COOLs, we can safely finish the operation in 60 seconds with 68 vitals remaining to guarantee the XS. For every second we go faster, we can go 1 vital lower:
 
 ```3860 + (68*5) + (240*5) = 5400```
+
+## <a id="ep5"></a>Episode 5 - Singing the Blues
+
+* Burn multiple polyps at the same time for max efficiency
+* There is a scripted blood pool after the 4th polyp
+* Waves alternate between top and bottom parts, zoom preemptively!
+
+This operation is very straightforward, think of it as a tutorial for magnification and laser. There are a total of 5 polyp waves, that alternate between the top and bottom part of the throat. Just zoom in, drain the blood, laser the things, and apply the gel.
+
+One thing to keep in mind here: the hitbox for each polyp is slightly larger than the graphics, so you can aim just between two polyps that are close to each other and kill them in groups. Try to get a feel for how long it takes to burn the polyps, so that you dont waste frames lasering something that is already dead, or have to jump back to a previous position because you moved too soon.
+
+Another small detail, there is a scripted blood pool after you burn your 4th polyp, so anticipate it and switch tools as necessary!
+
+You might think it is better to coat the affected area in gel before or during your lasering, so that the gel sticks immediately once you finish burning, which would be correct, if not for the fact that the gel gets in the way of you seeing where to aim, but if you're confident you can experiment with very fast tool switching to try and get that instant gel. Just keep in mind the gel is almost instantaneous as well if you apply it directly on top of the wound.
+
+Below are the groupings used for lasering polyps together, for each wave:
+
+![](img/1-5polyps.png)
+
+#### Special Notes for XS
+
+* Same as any rank, just get all 3 COOLs
+* No need to worry about the vitals
+
+The procedure is exactly the same as the any rank version, just be careful to make sure you get a COOL incision, suture and bandage, since that is one of the bonus requirements. There is no need to care for vitals, unless you are incredibly slow.
+
+#### Scoring Information
+
+| Grades | B | A | S | XS |
+| :--: | :--: | :--: | :--: | :--: |
+| Required score | 4200 | 4600 | 5000 | 5200 |
+
+| Bonus | Score |
+| :---: | :---: |
+| No mistakes | 1000 |
+| Less than 6 blood pools | 500 |
+| Finished with 3:30 left | 300 |
+| 3 COOLs | 200 |
+
+* Vitals start at 99/99
+* Time limit: 5 minutes
+* Score breakdown, assuming all COOLs:
+  * 44 Polyps: 880 points
+  * 1 Incision: 200 points
+  * 1 Incision Suture: 240 points
+  * 1 Bandage: 260 points
+
+Adding up all the bonuses and score obtainable in the stage, we reach a max score of 3580 points, which will be added to the time and vital bonus to get the final grade. Therefore, assuming we get all COOLs, we can safely finish the operation in 75 seconds with 99 vitals remaining to guarantee the XS. For every second we go faster, we can go 1 vital lower:
+
+```3580 + (99*5) + (225*5) = 5200```
+
+## <a id="ep6"></a>Episode 6 - A Real Doctor
+
+* Keep an eye on the vitals and build an intuition for which value is safe and which isn't
+* Make the most of your blue stuff when treating inflammations, avoid trips to the vial
+* Slash tumors in groups of 2 and treat them all at once to be optimal
+* Don't forget to spam ultrasound after treating all 4 tumors
+
+This is the first operation with a real threat to the player, but still nothing to panic over. There are 4 tumors and 23 inflammations, and you should be treating all the inflammations before moving on to extracting the tumors. Remember from 1-3 how small these hitboxes can be, and aim carefully! Getting too many misses here can result in enough vital damage that you will need to boost vitals at some point.
+
+The first step is taking care of the inflammations. Vitals will be plummeting as you do this, so try to work fast and efficient. The key here is minimizing the amount of trips to the vial, keeping in mind it's fine to run out of blue stuff while treating an inflammation.
+
+The optimal way to achieve this is includes 7 trips to the vial, taking a FULL syringe with you on every trip. You can see the suggested groups to treat in the top diagram below. Note the intersections between groups - don't waste any blue stuff, inject on inflammations even if you cant fully treat them!
+
+![](img/1-6inflammations.png)
+
+The bottom diagram shows a very advanced optimization with only 5 trips to the vial, exploiting the fact that the inflammation hitboxes extend beyond the graphic, and even intersect at some points. Because of this, you can damage two inflammations at once if you aim just right where their hitbox intersects - this takes a lot of practice and intuition to pull off, since you have no clear visual cues. You can see the suggested overlaps and new groupings in blue and black, respectively.
+
+The tumors are lines up with the middle part of the intestine, you can see a picture below with their ultrasound locations so you can build your visual cues. One thing to note here when slashing them with the scalpel - you can open multiple tumors in one single slash! So what is recommended is to do two vertical incisions, one for the two tumors on the left, one for the two tumors on the right, just angle each cut a bit.
+
+![](img/1-6tumors.png)
+
+Extracting the tumors is the same procedure from 1-3, but here we have the vitals to worry about. Since you likely took some damage during the inflammation treatment, it helps to know how many vital points should be considered "safe" before you start treating the tumors. If you are below that safe value, inject the stabilizer until you're above it, to avoid having the patient die while removing the tumors and patching them up.
+
+You can kinda reduce the dps you take by treating tumors one at a time, but that is not optimal from a tool switching perspective. Doesnt lose much time though, so stick to whatever feels comfortable for you. Keep in mind as well that what is a "safe" threshold for one runner could be dangerous for another, since this will vary based on how fast a runner is (faster = less damage taken) and how safe they want to play the operation (how comfortable are you seeing a patient at 0 vitals?).
+
+For reference, at a high level you would want at least 30 vitals going into the tumor treatment. 35\~40 should be safe if you're playing it safer or slower. After extracting the tumors, you must spam the ultrasound for a while to make Angie shut up.
+
+#### Special Notes for Hard
+
+* Same treatment as Normal, but you will take considerably more damage
+* Mistakes are more costly, so play a bit safer if you're not confident
+
+The treatment is the same but you will be hard pressed for vitals once you finish the inflammations part. Extracting the tumors without boosting vitals WILL result in patient death. You must boost vitals to a "safe" value, and just like Normal, that threshold will vary for everyone - experiment and find something that works for you, and take mistakes into account, you don't want to die to an accidental tumor drop.
+
+As a reference, at high levels of play you would consider at least 50 vitals, which allows some breathing room for a single mistake. Values closer to 60 and 65 are recommended if you're not fast at extracting the tumors, or maybe you can consider the approach of extracting tumors individually.
+
+#### Special Notes for XS
+
+* Mistakes are not allowed, be VERY careful with the syringe
+* Add 25\~30 to what you considered "safe" for Hard, to account for the bonus
+* Use the downtime after treating tumor 4 to pump vitals
+* You can go for a BAD bandage if you're just a bit fast
+
+This will be your first major hurdle in an XS run. The first obvious thing to point out is that mistakes are not allowed, so don't be too daring with the syringe, avoid aiming for hitbox intersections and play safely. Remember: it's faster to slow down than to reset the operation. If your vitals are nearing 30 while treating inflammations, inject some stabilizer asap to avoid the risk of vitals dipping below 25.
+
+For the tumors, you want to experiment one more time with what shall be considered safe. You cannot go below 25 vitals, so consider spending a lot of time boosting vitals before tackling tumors, and even treating them individually if you're not confident in your speed.
+
+At a very high level, 65 vitals just barely make it. Consider going to 70\~75 for safer strats, and if that's still not enough, treat tumors separately, and inject stabilizer as needed. It is not worth it to overheal past 75 since the vitals cap at 80, and you will take less dps as you remove tumors.
+
+After removing the 4th tumor, you get some downtime before Angie tells you to spam the ultrasound. You have enough time here to do 2 full stabilizer injections, boosting your vitals (and thus your score) by a lot. Going for the COOL bandage should be a guaranteed XS if you managed to get every bonus.
+
+One final optimization: getting a BAD bandage. Since we get so many points in this operation, this should be extremely free. I'd guess they didnt account for players getting COOLs on the tumors? If you're somehow missing XS because of the BAD bandage, you should probably be grinding this operation a bit more so you pick up the speed for the rest of the run, you will need it.
+
+#### Scoring Information
+
+| Grades | B | A | S | XS |
+| :--: | :--: | :--: | :--: | :--: |
+| Required score | 5000 | 5500 | 6000 | 6300 |
+
+| Bonus | Score |
+| :---: | :---: |
+| No mistakes | 1000 |
+| Vitals stayed above 25 | 500 |
+| Finished with 3:30 left | 300 |
+| 3 COOLs | 200 |
+
+* Vitals start at 70/80
+* Time limit: 5 minutes
+* Score breakdown, assuming all COOLs:
+  * 23 Inflammations: 920 points
+  * 4 Tumors: 1440 points
+  * 1 Incision: 200 points
+  * 1 Incision Suture: 240 points
+  * 1 Bandage: 260 points
+
+Adding up all the bonuses and score obtainable in the stage, we reach a max score of 5060 points, which will be added to the time and vital bonus to get the final grade. Therefore, assuming we get all COOLs, we can safely finish the operation in 90 seconds with 38 vitals remaining to guarantee the XS. For every second we go faster, we can go 1 vital lower:
+
+```5060 + (38*5) + (210*5) = 6300```
+
+## <a id="ep8"></a>Episode 8 - Life or Death
+
+* asd
+
+asd
+
+#### Special Notes for XS
+
+* asd
+
+asd
+
+#### Scoring Information
+
+| Grades | B | A | S | XS |
+| :--: | :--: | :--: | :--: | :--: |
+| Required score | 4900 | 5300 | 5800 | 6000 |
+
+| Bonus | Score |
+| :---: | :---: |
+| No mistakes | 1000 |
+| Finished with 4:00 left | 300 |
+| 10 COOLs | 700 |
+
+* Vitals start at 10/30
+* Time limit: 5 minutes
+* Score breakdown, assuming all COOLs:
+  * 6 Lacerations: 840 points
+  * 6 Glass Shards: 840 points
+  * 1 Big Glass Shard: 260 points
+  * 1 Incision: 200 points
+  * 1 Incision Suture: 240 points
+  * 1 Bandage: 260 points
+
+Adding up all the bonuses and score obtainable in the stage, we reach a max score of 4640 points, which will be added to the time and vital bonus to get the final grade. Therefore, assuming we get all COOLs, we can safely finish the operation in 58 seconds with 30 vitals remaining to guarantee the XS. For every second we go faster, we can go 1 vital lower:
+
+```4640 + (30*5) + (242*5) = 6000```
+
+## <a id="epZ"></a>Episode Z - From Overseas
+
+* asd
+
+asd
+
+#### Special Notes for XS
+
+* asd
+
+asd
+
+#### Scoring Information
+
+| Grades | B | A | S | XS |
+| :--: | :--: | :--: | :--: | :--: |
+| Required score | 4000 | 4700 | 5100 | 5400 |
+
+| Bonus | Score |
+| :---: | :---: |
+| No mistakes | 700 |
+| Chain over 28 | 300 |
+| Finished with 3:45 left | 500 |
+| 3 COOLs | 500 |
+
+* Vitals start at 80/99
+* Time limit: 5 minutes
+* Score breakdown, assuming all COOLs:
+  * 1 Small Cut: 30 points
+  * 5 Bone Fragments: 200 points
+  * 1 Bone Reposition: 100 points
+  * 1 Bone Cut: 30 points
+  * 6 Bone Placements: 360 points
+  * 6 Bone Gels: 240 points
+  * 1 Incision: 200 points
+  * 1 Incision Suture: 240 points
+  * 1 Bandage: 260 points
+
+Adding up all the bonuses and score obtainable in the stage, we reach a max score of 3660 points, which will be added to the time and vital bonus to get the final grade. Therefore, assuming we get all COOLs, we can safely finish the operation in 58 seconds with 30 vitals remaining to guarantee the XS. For every second we go faster, we can go 1 vital lower:
+
+```3660 + (99*5) + (249*5) = 5400```

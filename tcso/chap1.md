@@ -226,13 +226,13 @@ The optimal way to achieve this is includes 7 trips to the vial, taking a FULL s
 
 The bottom diagram shows a very advanced optimization with only 5 trips to the vial, exploiting the fact that the inflammation hitboxes extend beyond the graphic, and even intersect at some points. Because of this, you can damage two inflammations at once if you aim just right where their hitbox intersects - this takes a lot of practice and intuition to pull off, since you have no clear visual cues. You can see the suggested overlaps and new groupings in blue and black, respectively.
 
-The tumors are lines up with the middle part of the intestine, you can see a picture below with their ultrasound locations so you can build your visual cues. One thing to note here when slashing them with the scalpel - you can open multiple tumors in one single slash! So what is recommended is to do two vertical incisions, one for the two tumors on the left, one for the two tumors on the right, just angle each cut a bit.
+The tumors are lined up with the middle part of the intestine, you can see a picture below with their ultrasound locations so you can build your visual cues. One thing to note here when slashing them with the scalpel - you can open multiple tumors in one single slash! So what is recommended is to do two vertical incisions, one for the two tumors on the left, one for the two tumors on the right, just angle each cut a bit.
 
 ![](img/1-6tumors.png)
 
 Extracting the tumors is the same procedure from 1-3, but here we have the vitals to worry about. Since you likely took some damage during the inflammation treatment, it helps to know how many vital points should be considered "safe" before you start treating the tumors. If you are below that safe value, inject the stabilizer until you're above it, to avoid having the patient die while removing the tumors and patching them up.
 
-You can kinda reduce the dps you take by treating tumors one at a time, but that is not optimal from a tool switching perspective. Doesnt lose much time though, so stick to whatever feels comfortable for you. Keep in mind as well that what is a "safe" threshold for one runner could be dangerous for another, since this will vary based on how fast a runner is (faster = less damage taken) and how safe they want to play the operation (how comfortable are you seeing a patient at 0 vitals?).
+You can kinda reduce the dps you take by treating tumors one at a time, but that is not optimal from a tool switching perspective. Doesn't lose much time though, so stick to whatever feels comfortable for you. Keep in mind as well that what is a "safe" threshold for one runner could be dangerous for another, since this will vary based on how fast a runner is (faster = less damage taken) and how safe they want to play the operation (how comfortable are you seeing a patient at 0 vitals?).
 
 For reference, at a high level you would want at least 30 vitals going into the tumor treatment. 35\~40 should be safe if you're playing it safer or slower. After extracting the tumors, you must spam the ultrasound for a while to make Angie shut up.
 

@@ -290,15 +290,28 @@ Adding up all the bonuses and score obtainable in the stage, we reach a max scor
 
 ## <a id="ep8"></a>Episode 8 - Life or Death
 
-* asd
+* The operation starts with a defibrilator use
+* There is a scripted defibrilator use after extracting the small glass shards
+* Practice the defibrilator so you at least hit the light gray area consistently
 
-asd
+This operation starts off with the defibrilator tutorial, so be ready to move your wiimote closer to the screen. Practice your timing so you can consistently hit at least the light gray area - the gauge might be fast but it should be 100% consistent if you build a nice visual cue.
+
+The procedure itself is extremely straightforward, just some suturing and glass shard removal. Think of it as a revisit to 1-1 but with the defibrilator and Angie screaming at you. There will be a second scripted use of the defibrilator after you remove all of the glass shards, so be ready for that.
+
+The only thing that can trip you up here is getting too many glass shard misses when extracting them. Remember that going too fast is pointless if your accuracy drops dramatically!
 
 #### Special Notes for XS
 
-* asd
+* No need to worry about vitals, they will always be at max when you finish
+* You can only miss 2 COOL grades to get the XS
+* Getting a BAD on the big glass shard is an instant reset
+* It is possible (but hard) to recover from a BAD on a small glass shard
 
-asd
+This operation is considerable more annoying when going for XS, only because getting COOLs removing glass shards is not the most consistent thing to do. You are only allowed to miss 2 COOL grades, so be careful when extracting the glass shards - move perfectly perpendicular to the wound!
+
+The procedure itself is exactly the same, there's no need to alter your sequencing or even worry about vitals, since they get automatically boosted to 30 after the auto HT proc. Your only concern here should be time and COOL count.
+
+While there is no chain requirement, getting a BAD can be fatal for XS, since you lose 90 points for a small glass shard and a whopping 230 for the big one, effectively shortening your time limit by 18 and 46 seconds respectively. While it is possible to recover from a small glass shard's BAD if you're super fast, getting a BAD on the big one will be an automatic reset - you would need to be superhuman to finish the operation in time. ~~Yes this is a challenge~~
 
 #### Scoring Information
 

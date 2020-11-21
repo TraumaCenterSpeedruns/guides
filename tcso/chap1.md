@@ -341,15 +341,39 @@ Adding up all the bonuses and score obtainable in the stage, we reach a max scor
 
 ## <a id="epZ"></a>Episode Z - From Overseas
 
-* asd
+* Bones must be placed in the same order you pick them up, try to always do the same order
+* Every piece that requires rotation rotates the same way: a bit counterclockwise
+* You can rotate clockwise before picking up fragments then go back to neutral
+* Memorize where the last bone fragment is, no need to ultrasound it
+* Apply the gel where the fragments meet, not individually
 
-asd
+Naomi's first operation is your introduction to the wiimote's rotation gimmick, and it's not as scary as it sounds. The procedure is straightforward, just collect the bone fragments, puzzle them back together and apply magic gel. Just memorize where each piece goes, easy. Here's a little image to guide you on where each piece goes:
+
+![](img/1-zreform.png)
+
+Keep in mind that the order you pick up the fragments will be the same order you have to place them back in. So try to always pick them up in the same order so you build consistent muscle memory when placing the pieces back.
+
+Regarding the rotating gimmick, you will need to rotate some pieces so that the game acknowledges them as being in the correct spot. This is true for every fragment except for the top left one from the left bone, which does not require any rotation.
+
+Interestingly, every piece requires the exact same amount of rotation in the same orientation to count as valid: a slight rotation in the counterclockwise direction. Because of this, you may want to leave the piece that requires no rotation for first or last, so that you dont have to worry too much about which piece requires rotating as you're rotating things.
+
+A small quirk with the wiimote is that unless your hands are incredibly stable, your usual aiming will be slightly off when you rotate your wrist, so you can try compensating for that by rotating your hand clockwise BEFORE picking up the bone fragments, then go back to your neutral stance, so that you effectively perform a counterclockwise rotation. This takes some practice though since you need to know exactly how much you should be rotating in the first place.
+
+The other tricky part in this operation is repositioning the main bone that's still attached to the elbow, you'll need to grasp it with the forceps and place it just right with no real visual cue to help, so the image below might help you build some intuition over how much you should be rotating it:
+
+![](img/1-zreposition.png)
+
+Lastly, the final bone fragment is hidden inside the patient's arm, and you can dig it out with the scalpel just by tapping on it, no need to slash it open like you would a tumor. There is also no need to use the ultrasound, you can just immediately go for the scalpel. Interestingly, the game is way more generous with this piece's rotation, and you do NOT need to rotate it at all for the game to accept it, so long as you place it properly, of course. A handy image for you to build a visual cue of where the last piece is:
+
+![](img/1-zfinal.png)
+
+After all that just apply the gel for a while until Naomi is satisfied. There's no need to gel each piece individually, aim for each bone's center area where every piece meets each other and just hold the gel there for a while.
 
 #### Special Notes for XS
 
-* asd
+* Pretty much the same procedure, just get all 3 COOLs: incision, suture, bandage
 
-asd
+There really aren't any major changes compared to the any rank procedure, just don't miss and get all 3 COOLs. Practice your rotations to avoid mistakes, and get comfortable with the finnicky bone replacement with the forceps before you piece the fragments back together.
 
 #### Scoring Information
 
